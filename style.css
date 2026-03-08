@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+button {
+  width: 22%;
+  height: 80px;
+  font-size: 30px ;
+  margin: 1%;
+}
+h1 {
+  font-size: 80px ;
+  
+}
